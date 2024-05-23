@@ -4,5 +4,6 @@
 
 A curated list of awesome AI agent.
 
+- [generative_agents](https://github.com/joonspk-research/generative_agents) - Interactive Simulacra of Human Behavior
 - [TypeAgent](https://github.com/PirateforFreedom/TypeAgent) - A unified agent framework that can create various types of agents, types include Memgpt, OpenDevin, SWE, AIOS,Concordia,Generative Agents etc.
 - [qrev](https://github.com/qrev-ai/qrev) - Open Source AI First alternative to Salesforce.
